@@ -4,3 +4,19 @@ p {
     font: 16pt Arial, sans-serif;
     border: 10px solid black;
 }
+
+h1 {
+    text-align: center;
+}
+
+body {
+    color: black;
+    font: 16pt Arial, sans-serif;
+}
+
+#correctLetters {
+    background-color: aquamarine;
+    color: black;
+    font: 16pt Arial, sans-serif;
+    border: 10px solid black;
+}
